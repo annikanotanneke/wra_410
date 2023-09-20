@@ -1,3 +1,10 @@
+/*move all content*/
+
+.all {
+    margin: auto;
+    max-width: 75%;
+}
+
 /*div setup*/
 .one {
     background-color: orange;
@@ -45,4 +52,11 @@
 .three:hover {
     width: 50%;
    transform: rotate(1080deg);
+}
+
+/*non div content*/
+
+body {
+    background-color: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
