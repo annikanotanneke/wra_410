@@ -22,6 +22,11 @@
 .three {
     background-color: blue;
     padding: 2rem;
+    width: 85%;
+    padding-left: 8ch;
+    padding-bottom: 2ch;
+    transition: all 3s;
+    transition-timing-function: ease-in-out;
 }
 
 /*div transitions*/
@@ -35,4 +40,9 @@
     width:50%;
     height: 50%;
     transform: skew(40deg, 20deg);
+}
+
+.three:hover {
+    width: 50%;
+   transform: rotate(1080deg);
 }
