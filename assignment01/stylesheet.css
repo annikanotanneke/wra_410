@@ -1,1 +1,57 @@
+/* taking away the presets */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
+/* overall */
+body{
+    margin: 3rem 5 rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:azure;
+    background-color: lightblue;
+    font-size:1vw;
+}
+main{
+    margin: 0 auto;
+    margin-top: 4rem;
+    width: 70%;
+    height:fit-content;
+    padding: 2rem 5rem;
+    background-color:rgb(33, 73, 87);
+}
+
+/* text format */
+h1{   
+    padding-top:1rem;
+    padding-bottom:1rem;
+    font-size:8vw;
+    
+}
+h2{
+    padding-bottom:0.5rem;
+    font-weight: 200;
+    font-size:1.5vw;
+}
+h3{
+    font-style: italic;font-weight: 200;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+}
+ul{
+    padding-bottom:0.5rem;
+}
+p{
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+}
+
+/* other */
+img{
+    display:block;
+    width:100%;
+    max-width:800px;
+    margin: 1rem auto 1rem auto;
+    border: 2px solid white;
+}
