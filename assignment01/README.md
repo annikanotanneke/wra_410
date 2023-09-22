@@ -1,5 +1,5 @@
 #assignment01
 
-HTML contributor - annika
+HTML contributor - annika hb (added css to aj collatz's file)
 
-CSS contributor - aj
+CSS contributor - rachel hoffman, aj collatz 
